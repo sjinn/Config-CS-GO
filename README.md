@@ -1,2 +1,2 @@
-Config-CS-GO
+Config CS GO by Jinn
 ============
